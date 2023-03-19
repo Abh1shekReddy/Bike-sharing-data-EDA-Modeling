@@ -1,0 +1,2 @@
+# Bike sharing data-EDA-Modeling
+ This repository contains the code and documentation for performing exploratory data analysis (EDA) and modeling of bike-sharing data. The EDA involves visualizing and summarizing the data to gain insights into the usage patterns of the bike-sharing system. The modeling includes building predictive models to forecast the demand for bikes based on various factors such as weather, time of day, and day of week.
